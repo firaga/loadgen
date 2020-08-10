@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gopcp.v2/helper/log"
+	"gl.eeo.im/jichen/loadgen-helper/v5/log"
 )
 
 // 日志记录器。

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"gopcp.v2/helper/log"
+w	"gl.eeo.im/jichen/loadgen-helper/v5/log"
 )
 
 // 日志记录器。
